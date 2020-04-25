@@ -1,0 +1,21 @@
+.section-ipados .intro-copyblock h2, .section-ipados .intro-copyblock h3{
+	margin-top: .8em;
+}
+
+ .sticky-wrapper-connectivity .connectivity-hardware .typography-caption{
+	position: absolute;
+	bottom: 63px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.sticky-wrapper-connectivity .connectivity-hardware .typography-caption{
+		bottom: 43px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.sticky-wrapper-connectivity .connectivity-hardware .typography-caption{
+		bottom: 35px;
+	}
+}
+

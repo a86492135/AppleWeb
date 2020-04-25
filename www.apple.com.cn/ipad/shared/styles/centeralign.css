@@ -1,0 +1,49 @@
+/* center align large and medium */
+
+html[lang=zh-CN] .centeralign.small {
+    padding-left: 0;
+}
+
+@media only screen and (max-width: 735px) {
+    html[lang=zh-CN] .centeralign.small {
+        padding-left: 0.4em;
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    html[lang=zh-CN] .centeralign.small {
+        padding-left: 0.4em;
+    }
+}
+
+html[lang=zh-CN] .centeralign.medium {
+    padding-left: 0.0em;
+}
+
+@media only screen and (max-width: 1024px) {
+    html[lang=zh-CN] .centeralign.medium {
+        padding-left: 0.4em;
+    }
+}
+
+html[lang=zh-CN] .centeralign.large {
+    padding-left: 0.4em;
+}
+
+@media only screen and (max-width: 1024px) {
+    html[lang=zh-CN] .centeralign.large {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    html[lang=zh-CN] .centeralign.large {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {
+    html[lang=zh-CN] .centeralign.large {
+        padding-left: 0;
+    }
+}

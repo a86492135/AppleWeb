@@ -1,0 +1,83 @@
+.section-buttons-and-connectors .diagram-text.microphone-2 {
+	left: -42px;
+	top: 317px;
+}
+
+@media only screen and (max-width: 1068px){
+	.section-buttons-and-connectors .diagram-text.microphone-2 {
+		top: 264px;
+	}
+}
+
+@media only screen and (max-width: 734px){
+	.section-buttons-and-connectors .diagram-text.microphone-2 {
+		left: 0;
+		top: 436px;
+	}
+}
+
+.section-buttons-and-connectors .diagram-text.camera {
+	width: 32px;
+}
+
+.section-buttons-and-connectors .diagram-text.microphone-1{
+	width: 32px;
+}
+
+.section-buttons-and-connectors .diagram-text.volume{
+	top: 105px;
+	left: 504px;
+}
+
+@media only screen and (max-width: 1068px){
+	.section-buttons-and-connectors .diagram-text.volume{
+		top: 88px;
+		left: 410px;	
+	}
+}
+
+@media only screen and (max-width: 734px){
+	.section-buttons-and-connectors .diagram-text.volume{
+		top: 525px;
+		left: 74px;
+	}
+}
+
+.section-buttons-and-connectors .diagram-text.magnetic-connector{
+	width: 44px;
+}
+
+@media only screen and (max-width: 1068px){
+	.section-buttons-and-connectors .diagram-text.magnetic-connector{
+		width: 22px;
+	}
+}
+
+@media only screen and (max-width: 734px){
+	.section-buttons-and-connectors .diagram-text.magnetic-connector{
+		width: 44px;
+	}
+}
+
+.section-buttons-and-connectors .diagram-text.nano-sim{
+	width: 90px;
+}
+
+@media only screen and (max-width: 734px){
+	.section-buttons-and-connectors .diagram-text.nano-sim{
+		width:80px;
+		left: 20px;
+	}
+}
+
+.section-buttons-and-connectors .diagram-text.smart-connector{
+	width: 43px;
+}
+.section-environmental-requirements .row{
+   padding-left:50%;
+}
+@media only screen and (max-width: 734px){
+ .section-environmental-requirements .row{
+   padding-left:0;
+}
+}

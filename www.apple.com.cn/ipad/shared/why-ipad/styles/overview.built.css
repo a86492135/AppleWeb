@@ -1,0 +1,9 @@
+.why-ipad-content .section-power .travel {
+    margin-top: 136px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .why-ipad-content .section-power .travel {
+        margin-top:86px
+    }
+}
